@@ -35,9 +35,6 @@ Visual Studio with MASM (Microsoft Macro Assembler) support or any other IDE sup
 ## Installation
 - Clone this repository or download the zip file.
 - Extract the zip file to your desired location.
-## Installation
-- Clone this repository or download the zip file.
-- Extract the zip file to your desired location.
 ## How to Download and Run the Project in Visual Studio
 
 - Click the "Code" button on the repository page.
